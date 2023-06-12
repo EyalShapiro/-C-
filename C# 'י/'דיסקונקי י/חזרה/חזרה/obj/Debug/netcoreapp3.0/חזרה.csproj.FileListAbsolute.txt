@@ -1,0 +1,11 @@
+F:\בבית ספר c#\חזרה\חזרה\bin\Debug\netcoreapp3.0\חזרה.exe
+F:\בבית ספר c#\חזרה\חזרה\bin\Debug\netcoreapp3.0\חזרה.deps.json
+F:\בבית ספר c#\חזרה\חזרה\bin\Debug\netcoreapp3.0\חזרה.runtimeconfig.json
+F:\בבית ספר c#\חזרה\חזרה\bin\Debug\netcoreapp3.0\חזרה.runtimeconfig.dev.json
+F:\בבית ספר c#\חזרה\חזרה\bin\Debug\netcoreapp3.0\חזרה.dll
+F:\בבית ספר c#\חזרה\חזרה\bin\Debug\netcoreapp3.0\חזרה.pdb
+F:\בבית ספר c#\חזרה\חזרה\obj\Debug\netcoreapp3.0\חזרה.csprojAssemblyReference.cache
+F:\בבית ספר c#\חזרה\חזרה\obj\Debug\netcoreapp3.0\חזרה.AssemblyInfoInputs.cache
+F:\בבית ספר c#\חזרה\חזרה\obj\Debug\netcoreapp3.0\חזרה.AssemblyInfo.cs
+F:\בבית ספר c#\חזרה\חזרה\obj\Debug\netcoreapp3.0\חזרה.dll
+F:\בבית ספר c#\חזרה\חזרה\obj\Debug\netcoreapp3.0\חזרה.pdb

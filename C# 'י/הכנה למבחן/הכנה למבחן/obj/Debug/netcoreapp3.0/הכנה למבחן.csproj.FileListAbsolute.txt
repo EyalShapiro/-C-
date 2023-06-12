@@ -1,0 +1,11 @@
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\הכנה למבחן\הכנה למבחן\obj\Debug\netcoreapp3.0\הכנה למבחן.csprojAssemblyReference.cache
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\הכנה למבחן\הכנה למבחן\obj\Debug\netcoreapp3.0\הכנה למבחן.AssemblyInfoInputs.cache
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\הכנה למבחן\הכנה למבחן\obj\Debug\netcoreapp3.0\הכנה למבחן.AssemblyInfo.cs
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\הכנה למבחן\הכנה למבחן\bin\Debug\netcoreapp3.0\הכנה למבחן.exe
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\הכנה למבחן\הכנה למבחן\bin\Debug\netcoreapp3.0\הכנה למבחן.deps.json
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\הכנה למבחן\הכנה למבחן\bin\Debug\netcoreapp3.0\הכנה למבחן.runtimeconfig.json
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\הכנה למבחן\הכנה למבחן\bin\Debug\netcoreapp3.0\הכנה למבחן.runtimeconfig.dev.json
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\הכנה למבחן\הכנה למבחן\bin\Debug\netcoreapp3.0\הכנה למבחן.dll
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\הכנה למבחן\הכנה למבחן\bin\Debug\netcoreapp3.0\הכנה למבחן.pdb
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\הכנה למבחן\הכנה למבחן\obj\Debug\netcoreapp3.0\הכנה למבחן.dll
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\הכנה למבחן\הכנה למבחן\obj\Debug\netcoreapp3.0\הכנה למבחן.pdb

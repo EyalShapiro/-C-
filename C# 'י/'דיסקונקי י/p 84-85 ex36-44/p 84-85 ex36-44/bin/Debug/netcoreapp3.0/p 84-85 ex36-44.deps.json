@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "p 84-85 ex36-44/1.0.0": {
+        "runtime": {
+          "p 84-85 ex36-44.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p 84-85 ex36-44/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

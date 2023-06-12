@@ -1,0 +1,11 @@
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p146-147\p146-147\bin\Debug\netcoreapp2.1\p146-147.deps.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p146-147\p146-147\bin\Debug\netcoreapp2.1\p146-147.runtimeconfig.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p146-147\p146-147\bin\Debug\netcoreapp2.1\p146-147.runtimeconfig.dev.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p146-147\p146-147\bin\Debug\netcoreapp2.1\p146-147.dll
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p146-147\p146-147\bin\Debug\netcoreapp2.1\p146-147.pdb
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p146-147\p146-147\obj\Debug\netcoreapp2.1\p146-147.csprojAssemblyReference.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p146-147\p146-147\obj\Debug\netcoreapp2.1\p146-147.csproj.CoreCompileInputs.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p146-147\p146-147\obj\Debug\netcoreapp2.1\p146-147.AssemblyInfoInputs.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p146-147\p146-147\obj\Debug\netcoreapp2.1\p146-147.AssemblyInfo.cs
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p146-147\p146-147\obj\Debug\netcoreapp2.1\p146-147.dll
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p146-147\p146-147\obj\Debug\netcoreapp2.1\p146-147.pdb

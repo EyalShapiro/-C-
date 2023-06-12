@@ -1,0 +1,21 @@
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p.117-118 ex11,13,14\p.117-118 ex11,13,14\bin\Debug\netcoreapp2.1\p.117-118 ex11,13,14.deps.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p.117-118 ex11,13,14\p.117-118 ex11,13,14\bin\Debug\netcoreapp2.1\p.117-118 ex11,13,14.runtimeconfig.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p.117-118 ex11,13,14\p.117-118 ex11,13,14\bin\Debug\netcoreapp2.1\p.117-118 ex11,13,14.runtimeconfig.dev.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p.117-118 ex11,13,14\p.117-118 ex11,13,14\bin\Debug\netcoreapp2.1\p.117-118 ex11,13,14.dll
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p.117-118 ex11,13,14\p.117-118 ex11,13,14\bin\Debug\netcoreapp2.1\p.117-118 ex11,13,14.pdb
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p.117-118 ex11,13,14\p.117-118 ex11,13,14\obj\Debug\netcoreapp2.1\p.117-118 ex11,13,14.csprojAssemblyReference.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p.117-118 ex11,13,14\p.117-118 ex11,13,14\obj\Debug\netcoreapp2.1\p.117-118 ex11,13,14.csproj.CoreCompileInputs.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p.117-118 ex11,13,14\p.117-118 ex11,13,14\obj\Debug\netcoreapp2.1\p.117-118 ex11,13,14.AssemblyInfoInputs.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p.117-118 ex11,13,14\p.117-118 ex11,13,14\obj\Debug\netcoreapp2.1\p.117-118 ex11,13,14.AssemblyInfo.cs
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p.117-118 ex11,13,14\p.117-118 ex11,13,14\obj\Debug\netcoreapp2.1\p.117-118 ex11,13,14.dll
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p.117-118 ex11,13,14\p.117-118 ex11,13,14\obj\Debug\netcoreapp2.1\p.117-118 ex11,13,14.pdb
+F:\p.117-118 ex11,13,14\p.117-118 ex11,13,14\bin\Debug\netcoreapp2.1\p.117-118 ex11,13,14.deps.json
+F:\p.117-118 ex11,13,14\p.117-118 ex11,13,14\bin\Debug\netcoreapp2.1\p.117-118 ex11,13,14.runtimeconfig.json
+F:\p.117-118 ex11,13,14\p.117-118 ex11,13,14\bin\Debug\netcoreapp2.1\p.117-118 ex11,13,14.runtimeconfig.dev.json
+F:\p.117-118 ex11,13,14\p.117-118 ex11,13,14\bin\Debug\netcoreapp2.1\p.117-118 ex11,13,14.dll
+F:\p.117-118 ex11,13,14\p.117-118 ex11,13,14\bin\Debug\netcoreapp2.1\p.117-118 ex11,13,14.pdb
+F:\p.117-118 ex11,13,14\p.117-118 ex11,13,14\obj\Debug\netcoreapp2.1\p.117-118 ex11,13,14.csprojAssemblyReference.cache
+F:\p.117-118 ex11,13,14\p.117-118 ex11,13,14\obj\Debug\netcoreapp2.1\p.117-118 ex11,13,14.AssemblyInfoInputs.cache
+F:\p.117-118 ex11,13,14\p.117-118 ex11,13,14\obj\Debug\netcoreapp2.1\p.117-118 ex11,13,14.AssemblyInfo.cs
+F:\p.117-118 ex11,13,14\p.117-118 ex11,13,14\obj\Debug\netcoreapp2.1\p.117-118 ex11,13,14.dll
+F:\p.117-118 ex11,13,14\p.117-118 ex11,13,14\obj\Debug\netcoreapp2.1\p.117-118 ex11,13,14.pdb

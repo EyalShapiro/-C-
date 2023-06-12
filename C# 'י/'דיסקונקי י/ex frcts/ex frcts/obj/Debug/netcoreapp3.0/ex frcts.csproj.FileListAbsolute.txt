@@ -1,0 +1,11 @@
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex frcts\ex frcts\bin\Debug\netcoreapp3.0\ex frcts.exe
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex frcts\ex frcts\bin\Debug\netcoreapp3.0\ex frcts.deps.json
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex frcts\ex frcts\bin\Debug\netcoreapp3.0\ex frcts.runtimeconfig.json
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex frcts\ex frcts\bin\Debug\netcoreapp3.0\ex frcts.runtimeconfig.dev.json
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex frcts\ex frcts\bin\Debug\netcoreapp3.0\ex frcts.dll
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex frcts\ex frcts\bin\Debug\netcoreapp3.0\ex frcts.pdb
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex frcts\ex frcts\obj\Debug\netcoreapp3.0\ex frcts.csprojAssemblyReference.cache
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex frcts\ex frcts\obj\Debug\netcoreapp3.0\ex frcts.AssemblyInfoInputs.cache
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex frcts\ex frcts\obj\Debug\netcoreapp3.0\ex frcts.AssemblyInfo.cs
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex frcts\ex frcts\obj\Debug\netcoreapp3.0\ex frcts.dll
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex frcts\ex frcts\obj\Debug\netcoreapp3.0\ex frcts.pdb

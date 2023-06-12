@@ -1,0 +1,13 @@
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\דף מאתר תר 1,5,6,11\דף מאתר תר 1,5,6,11\obj\Debug\netcoreapp3.1\דף מאתר תר 1,5,6,11.csprojAssemblyReference.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\דף מאתר תר 1,5,6,11\דף מאתר תר 1,5,6,11\obj\Debug\netcoreapp3.1\דף מאתר תר 1,5,6,11.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\דף מאתר תר 1,5,6,11\דף מאתר תר 1,5,6,11\obj\Debug\netcoreapp3.1\דף מאתר תר 1,5,6,11.AssemblyInfoInputs.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\דף מאתר תר 1,5,6,11\דף מאתר תר 1,5,6,11\obj\Debug\netcoreapp3.1\דף מאתר תר 1,5,6,11.AssemblyInfo.cs
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\דף מאתר תר 1,5,6,11\דף מאתר תר 1,5,6,11\bin\Debug\netcoreapp3.1\דף מאתר תר 1,5,6,11.exe
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\דף מאתר תר 1,5,6,11\דף מאתר תר 1,5,6,11\bin\Debug\netcoreapp3.1\דף מאתר תר 1,5,6,11.deps.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\דף מאתר תר 1,5,6,11\דף מאתר תר 1,5,6,11\bin\Debug\netcoreapp3.1\דף מאתר תר 1,5,6,11.runtimeconfig.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\דף מאתר תר 1,5,6,11\דף מאתר תר 1,5,6,11\bin\Debug\netcoreapp3.1\דף מאתר תר 1,5,6,11.runtimeconfig.dev.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\דף מאתר תר 1,5,6,11\דף מאתר תר 1,5,6,11\bin\Debug\netcoreapp3.1\דף מאתר תר 1,5,6,11.dll
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\דף מאתר תר 1,5,6,11\דף מאתר תר 1,5,6,11\bin\Debug\netcoreapp3.1\דף מאתר תר 1,5,6,11.pdb
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\דף מאתר תר 1,5,6,11\דף מאתר תר 1,5,6,11\obj\Debug\netcoreapp3.1\דף מאתר תר 1,5,6,11.dll
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\דף מאתר תר 1,5,6,11\דף מאתר תר 1,5,6,11\obj\Debug\netcoreapp3.1\דף מאתר תר 1,5,6,11.pdb
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\דף מאתר תר 1,5,6,11\דף מאתר תר 1,5,6,11\obj\Debug\netcoreapp3.1\דף מאתר תר 1,5,6,11.genruntimeconfig.cache

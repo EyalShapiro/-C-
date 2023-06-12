@@ -1,0 +1,16 @@
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p106 ex4,5\bin\Debug\netcoreapp2.1\p106 ex4,5.deps.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p106 ex4,5\bin\Debug\netcoreapp2.1\p106 ex4,5.runtimeconfig.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p106 ex4,5\bin\Debug\netcoreapp2.1\p106 ex4,5.runtimeconfig.dev.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p106 ex4,5\bin\Debug\netcoreapp2.1\p106 ex4,5.dll
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p106 ex4,5\bin\Debug\netcoreapp2.1\p106 ex4,5.pdb
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p106 ex4,5\obj\Debug\netcoreapp2.1\p106 ex4,5.csprojAssemblyReference.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p106 ex4,5\obj\Debug\netcoreapp2.1\p106 ex4,5.csproj.CoreCompileInputs.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p106 ex4,5\obj\Debug\netcoreapp2.1\p106 ex4,5.AssemblyInfoInputs.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p106 ex4,5\obj\Debug\netcoreapp2.1\p106 ex4,5.AssemblyInfo.cs
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p106 ex4,5\obj\Debug\netcoreapp2.1\p106 ex4,5.dll
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p106 ex4,5\obj\Debug\netcoreapp2.1\p106 ex4,5.pdb
+F:\p106 ex4,5\obj\Debug\netcoreapp2.1\p106 ex4,5.csprojAssemblyReference.cache
+F:\p106 ex4,5\obj\Debug\netcoreapp2.1\p106 ex4,5.AssemblyInfoInputs.cache
+F:\p106 ex4,5\obj\Debug\netcoreapp2.1\p106 ex4,5.AssemblyInfo.cs
+F:\p106 ex4,5\obj\Debug\netcoreapp2.1\p106 ex4,5.dll
+F:\p106 ex4,5\obj\Debug\netcoreapp2.1\p106 ex4,5.pdb

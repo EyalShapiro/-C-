@@ -1,0 +1,13 @@
+F:\בבית ספר c#\דף שאלות\דף שאלות\obj\Debug\netcoreapp3.1\דף שאלות.csprojAssemblyReference.cache
+F:\בבית ספר c#\דף שאלות\דף שאלות\obj\Debug\netcoreapp3.1\דף שאלות.csproj.CoreCompileInputs.cache
+F:\בבית ספר c#\דף שאלות\דף שאלות\obj\Debug\netcoreapp3.1\דף שאלות.AssemblyInfoInputs.cache
+F:\בבית ספר c#\דף שאלות\דף שאלות\obj\Debug\netcoreapp3.1\דף שאלות.AssemblyInfo.cs
+F:\בבית ספר c#\דף שאלות\דף שאלות\bin\Debug\netcoreapp3.1\דף שאלות.exe
+F:\בבית ספר c#\דף שאלות\דף שאלות\bin\Debug\netcoreapp3.1\דף שאלות.deps.json
+F:\בבית ספר c#\דף שאלות\דף שאלות\bin\Debug\netcoreapp3.1\דף שאלות.runtimeconfig.json
+F:\בבית ספר c#\דף שאלות\דף שאלות\bin\Debug\netcoreapp3.1\דף שאלות.runtimeconfig.dev.json
+F:\בבית ספר c#\דף שאלות\דף שאלות\bin\Debug\netcoreapp3.1\דף שאלות.dll
+F:\בבית ספר c#\דף שאלות\דף שאלות\bin\Debug\netcoreapp3.1\דף שאלות.pdb
+F:\בבית ספר c#\דף שאלות\דף שאלות\obj\Debug\netcoreapp3.1\דף שאלות.dll
+F:\בבית ספר c#\דף שאלות\דף שאלות\obj\Debug\netcoreapp3.1\דף שאלות.pdb
+F:\בבית ספר c#\דף שאלות\דף שאלות\obj\Debug\netcoreapp3.1\דף שאלות.genruntimeconfig.cache

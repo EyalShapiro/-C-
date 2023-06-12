@@ -1,0 +1,22 @@
+C:\Users\Alon\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\ConsoleApp3.exe
+C:\Users\Alon\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\ConsoleApp3.deps.json
+C:\Users\Alon\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\ConsoleApp3.runtimeconfig.json
+C:\Users\Alon\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\Alon\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\ConsoleApp3.dll
+C:\Users\Alon\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\ConsoleApp3.pdb
+C:\Users\Alon\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Alon\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Alon\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Alon\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\ConsoleApp3.dll
+C:\Users\Alon\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\ConsoleApp3.pdb
+F:\בבית ספר c#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\ConsoleApp3.exe
+F:\בבית ספר c#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\ConsoleApp3.deps.json
+F:\בבית ספר c#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\ConsoleApp3.runtimeconfig.json
+F:\בבית ספר c#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\ConsoleApp3.runtimeconfig.dev.json
+F:\בבית ספר c#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\ConsoleApp3.dll
+F:\בבית ספר c#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.0\ConsoleApp3.pdb
+F:\בבית ספר c#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\ConsoleApp3.csprojAssemblyReference.cache
+F:\בבית ספר c#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\ConsoleApp3.AssemblyInfoInputs.cache
+F:\בבית ספר c#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\ConsoleApp3.AssemblyInfo.cs
+F:\בבית ספר c#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\ConsoleApp3.dll
+F:\בבית ספר c#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.0\ConsoleApp3.pdb

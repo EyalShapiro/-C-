@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\רקוסה במרך\רקוסה במרך\bin\Debug\רקוסה במרך.exe.config
+C:\Users\User\source\repos\רקוסה במרך\רקוסה במרך\bin\Debug\רקוסה במרך.exe
+C:\Users\User\source\repos\רקוסה במרך\רקוסה במרך\bin\Debug\רקוסה במרך.pdb
+C:\Users\User\source\repos\רקוסה במרך\רקוסה במרך\obj\Debug\רקוסה במרך.csprojAssemblyReference.cache
+C:\Users\User\source\repos\רקוסה במרך\רקוסה במרך\obj\Debug\רקוסה במרך.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\רקוסה במרך\רקוסה במרך\obj\Debug\רקוסה במרך.exe
+C:\Users\User\source\repos\רקוסה במרך\רקוסה במרך\obj\Debug\רקוסה במרך.pdb
+C:\אייל לימודים\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\bin\Debug\רקוסה במרך.exe.config
+C:\אייל לימודים\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\bin\Debug\רקוסה במרך.exe
+C:\אייל לימודים\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\bin\Debug\רקוסה במרך.pdb
+C:\אייל לימודים\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\obj\Debug\רקוסה במרך.csprojAssemblyReference.cache
+C:\אייל לימודים\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\obj\Debug\רקוסה במרך.csproj.CoreCompileInputs.cache
+C:\אייל לימודים\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\obj\Debug\רקוסה במרך.exe
+C:\אייל לימודים\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\obj\Debug\רקוסה במרך.pdb
+C:\אייל\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\bin\Debug\רקוסה במרך.exe.config
+C:\אייל\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\bin\Debug\רקוסה במרך.exe
+C:\אייל\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\bin\Debug\רקוסה במרך.pdb
+C:\אייל\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\obj\Debug\רקוסה במרך.csproj.AssemblyReference.cache
+C:\אייל\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\obj\Debug\רקוסה במרך.csproj.CoreCompileInputs.cache
+C:\אייל\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\obj\Debug\רקוסה במרך.exe
+C:\אייל\'יא\אייל  C#\רקוסה במרך\רקוסה במרך\obj\Debug\רקוסה במרך.pdb

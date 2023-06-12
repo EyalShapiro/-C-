@@ -1,0 +1,11 @@
+F:\בבית ספר c#\למבחן שאלה3\למבחן שאלה3\bin\Debug\netcoreapp2.1\למבחן שאלה3.deps.json
+F:\בבית ספר c#\למבחן שאלה3\למבחן שאלה3\bin\Debug\netcoreapp2.1\למבחן שאלה3.runtimeconfig.json
+F:\בבית ספר c#\למבחן שאלה3\למבחן שאלה3\bin\Debug\netcoreapp2.1\למבחן שאלה3.runtimeconfig.dev.json
+F:\בבית ספר c#\למבחן שאלה3\למבחן שאלה3\bin\Debug\netcoreapp2.1\למבחן שאלה3.dll
+F:\בבית ספר c#\למבחן שאלה3\למבחן שאלה3\bin\Debug\netcoreapp2.1\למבחן שאלה3.pdb
+F:\בבית ספר c#\למבחן שאלה3\למבחן שאלה3\obj\Debug\netcoreapp2.1\למבחן שאלה3.csprojAssemblyReference.cache
+F:\בבית ספר c#\למבחן שאלה3\למבחן שאלה3\obj\Debug\netcoreapp2.1\למבחן שאלה3.csproj.CoreCompileInputs.cache
+F:\בבית ספר c#\למבחן שאלה3\למבחן שאלה3\obj\Debug\netcoreapp2.1\למבחן שאלה3.AssemblyInfoInputs.cache
+F:\בבית ספר c#\למבחן שאלה3\למבחן שאלה3\obj\Debug\netcoreapp2.1\למבחן שאלה3.AssemblyInfo.cs
+F:\בבית ספר c#\למבחן שאלה3\למבחן שאלה3\obj\Debug\netcoreapp2.1\למבחן שאלה3.dll
+F:\בבית ספר c#\למבחן שאלה3\למבחן שאלה3\obj\Debug\netcoreapp2.1\למבחן שאלה3.pdb

@@ -1,0 +1,13 @@
+F:\בבית ספר c#\מגלה\מגלה\bin\Debug\netcoreapp3.1\מגלה.exe
+F:\בבית ספר c#\מגלה\מגלה\bin\Debug\netcoreapp3.1\מגלה.deps.json
+F:\בבית ספר c#\מגלה\מגלה\bin\Debug\netcoreapp3.1\מגלה.runtimeconfig.json
+F:\בבית ספר c#\מגלה\מגלה\bin\Debug\netcoreapp3.1\מגלה.runtimeconfig.dev.json
+F:\בבית ספר c#\מגלה\מגלה\bin\Debug\netcoreapp3.1\מגלה.dll
+F:\בבית ספר c#\מגלה\מגלה\bin\Debug\netcoreapp3.1\מגלה.pdb
+F:\בבית ספר c#\מגלה\מגלה\obj\Debug\netcoreapp3.1\מגלה.csprojAssemblyReference.cache
+F:\בבית ספר c#\מגלה\מגלה\obj\Debug\netcoreapp3.1\מגלה.csproj.CoreCompileInputs.cache
+F:\בבית ספר c#\מגלה\מגלה\obj\Debug\netcoreapp3.1\מגלה.AssemblyInfoInputs.cache
+F:\בבית ספר c#\מגלה\מגלה\obj\Debug\netcoreapp3.1\מגלה.AssemblyInfo.cs
+F:\בבית ספר c#\מגלה\מגלה\obj\Debug\netcoreapp3.1\מגלה.dll
+F:\בבית ספר c#\מגלה\מגלה\obj\Debug\netcoreapp3.1\מגלה.pdb
+F:\בבית ספר c#\מגלה\מגלה\obj\Debug\netcoreapp3.1\מגלה.genruntimeconfig.cache

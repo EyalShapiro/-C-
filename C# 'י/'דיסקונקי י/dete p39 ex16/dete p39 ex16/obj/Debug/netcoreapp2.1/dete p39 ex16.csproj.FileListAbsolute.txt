@@ -1,0 +1,3 @@
+F:\בבית ספר c#\dete p39 ex16\dete p39 ex16\obj\Debug\netcoreapp2.1\dete p39 ex16.csprojAssemblyReference.cache
+F:\בבית ספר c#\dete p39 ex16\dete p39 ex16\obj\Debug\netcoreapp2.1\dete p39 ex16.AssemblyInfoInputs.cache
+F:\בבית ספר c#\dete p39 ex16\dete p39 ex16\obj\Debug\netcoreapp2.1\dete p39 ex16.AssemblyInfo.cs

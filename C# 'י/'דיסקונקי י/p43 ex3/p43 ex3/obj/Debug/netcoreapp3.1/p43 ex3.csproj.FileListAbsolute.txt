@@ -1,0 +1,13 @@
+F:\בבית ספר c#\p43 ex3\p43 ex3\bin\Debug\netcoreapp3.1\p43 ex3.exe
+F:\בבית ספר c#\p43 ex3\p43 ex3\bin\Debug\netcoreapp3.1\p43 ex3.deps.json
+F:\בבית ספר c#\p43 ex3\p43 ex3\bin\Debug\netcoreapp3.1\p43 ex3.runtimeconfig.json
+F:\בבית ספר c#\p43 ex3\p43 ex3\bin\Debug\netcoreapp3.1\p43 ex3.runtimeconfig.dev.json
+F:\בבית ספר c#\p43 ex3\p43 ex3\bin\Debug\netcoreapp3.1\p43 ex3.dll
+F:\בבית ספר c#\p43 ex3\p43 ex3\bin\Debug\netcoreapp3.1\p43 ex3.pdb
+F:\בבית ספר c#\p43 ex3\p43 ex3\obj\Debug\netcoreapp3.1\p43 ex3.csprojAssemblyReference.cache
+F:\בבית ספר c#\p43 ex3\p43 ex3\obj\Debug\netcoreapp3.1\p43 ex3.csproj.CoreCompileInputs.cache
+F:\בבית ספר c#\p43 ex3\p43 ex3\obj\Debug\netcoreapp3.1\p43 ex3.AssemblyInfoInputs.cache
+F:\בבית ספר c#\p43 ex3\p43 ex3\obj\Debug\netcoreapp3.1\p43 ex3.AssemblyInfo.cs
+F:\בבית ספר c#\p43 ex3\p43 ex3\obj\Debug\netcoreapp3.1\p43 ex3.dll
+F:\בבית ספר c#\p43 ex3\p43 ex3\obj\Debug\netcoreapp3.1\p43 ex3.pdb
+F:\בבית ספר c#\p43 ex3\p43 ex3\obj\Debug\netcoreapp3.1\p43 ex3.genruntimeconfig.cache

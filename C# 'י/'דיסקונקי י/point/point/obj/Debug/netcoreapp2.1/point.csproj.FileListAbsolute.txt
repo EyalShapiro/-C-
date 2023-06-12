@@ -1,0 +1,11 @@
+F:\בבית ספר c#\point\point\obj\Debug\netcoreapp2.1\point.csprojAssemblyReference.cache
+F:\בבית ספר c#\point\point\obj\Debug\netcoreapp2.1\point.csproj.CoreCompileInputs.cache
+F:\בבית ספר c#\point\point\obj\Debug\netcoreapp2.1\point.AssemblyInfoInputs.cache
+F:\בבית ספר c#\point\point\obj\Debug\netcoreapp2.1\point.AssemblyInfo.cs
+F:\בבית ספר c#\point\point\bin\Debug\netcoreapp2.1\point.deps.json
+F:\בבית ספר c#\point\point\bin\Debug\netcoreapp2.1\point.runtimeconfig.json
+F:\בבית ספר c#\point\point\bin\Debug\netcoreapp2.1\point.runtimeconfig.dev.json
+F:\בבית ספר c#\point\point\bin\Debug\netcoreapp2.1\point.dll
+F:\בבית ספר c#\point\point\bin\Debug\netcoreapp2.1\point.pdb
+F:\בבית ספר c#\point\point\obj\Debug\netcoreapp2.1\point.dll
+F:\בבית ספר c#\point\point\obj\Debug\netcoreapp2.1\point.pdb

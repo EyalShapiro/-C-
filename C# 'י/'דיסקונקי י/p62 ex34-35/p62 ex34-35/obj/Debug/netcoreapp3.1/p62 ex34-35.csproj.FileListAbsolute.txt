@@ -1,0 +1,13 @@
+F:\בבית ספר c#\p62 ex34-35\p62 ex34-35\bin\Debug\netcoreapp3.1\p62 ex34-35.exe
+F:\בבית ספר c#\p62 ex34-35\p62 ex34-35\bin\Debug\netcoreapp3.1\p62 ex34-35.deps.json
+F:\בבית ספר c#\p62 ex34-35\p62 ex34-35\bin\Debug\netcoreapp3.1\p62 ex34-35.runtimeconfig.json
+F:\בבית ספר c#\p62 ex34-35\p62 ex34-35\bin\Debug\netcoreapp3.1\p62 ex34-35.runtimeconfig.dev.json
+F:\בבית ספר c#\p62 ex34-35\p62 ex34-35\bin\Debug\netcoreapp3.1\p62 ex34-35.dll
+F:\בבית ספר c#\p62 ex34-35\p62 ex34-35\bin\Debug\netcoreapp3.1\p62 ex34-35.pdb
+F:\בבית ספר c#\p62 ex34-35\p62 ex34-35\obj\Debug\netcoreapp3.1\p62 ex34-35.csprojAssemblyReference.cache
+F:\בבית ספר c#\p62 ex34-35\p62 ex34-35\obj\Debug\netcoreapp3.1\p62 ex34-35.csproj.CoreCompileInputs.cache
+F:\בבית ספר c#\p62 ex34-35\p62 ex34-35\obj\Debug\netcoreapp3.1\p62 ex34-35.AssemblyInfoInputs.cache
+F:\בבית ספר c#\p62 ex34-35\p62 ex34-35\obj\Debug\netcoreapp3.1\p62 ex34-35.AssemblyInfo.cs
+F:\בבית ספר c#\p62 ex34-35\p62 ex34-35\obj\Debug\netcoreapp3.1\p62 ex34-35.dll
+F:\בבית ספר c#\p62 ex34-35\p62 ex34-35\obj\Debug\netcoreapp3.1\p62 ex34-35.pdb
+F:\בבית ספר c#\p62 ex34-35\p62 ex34-35\obj\Debug\netcoreapp3.1\p62 ex34-35.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\PG147 EX12\PG147 EX12\bin\Debug\netcoreapp2.1\PG147 EX12.deps.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\PG147 EX12\PG147 EX12\bin\Debug\netcoreapp2.1\PG147 EX12.runtimeconfig.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\PG147 EX12\PG147 EX12\bin\Debug\netcoreapp2.1\PG147 EX12.runtimeconfig.dev.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\PG147 EX12\PG147 EX12\bin\Debug\netcoreapp2.1\PG147 EX12.dll
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\PG147 EX12\PG147 EX12\bin\Debug\netcoreapp2.1\PG147 EX12.pdb
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\PG147 EX12\PG147 EX12\obj\Debug\netcoreapp2.1\PG147 EX12.csprojAssemblyReference.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\PG147 EX12\PG147 EX12\obj\Debug\netcoreapp2.1\PG147 EX12.csproj.CoreCompileInputs.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\PG147 EX12\PG147 EX12\obj\Debug\netcoreapp2.1\PG147 EX12.AssemblyInfoInputs.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\PG147 EX12\PG147 EX12\obj\Debug\netcoreapp2.1\PG147 EX12.AssemblyInfo.cs
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\PG147 EX12\PG147 EX12\obj\Debug\netcoreapp2.1\PG147 EX12.dll
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\PG147 EX12\PG147 EX12\obj\Debug\netcoreapp2.1\PG147 EX12.pdb
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p147,150-151\PG147 EX12\bin\Debug\netcoreapp2.1\PG147 EX12.deps.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p147,150-151\PG147 EX12\bin\Debug\netcoreapp2.1\PG147 EX12.runtimeconfig.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p147,150-151\PG147 EX12\bin\Debug\netcoreapp2.1\PG147 EX12.runtimeconfig.dev.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p147,150-151\PG147 EX12\bin\Debug\netcoreapp2.1\PG147 EX12.dll
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p147,150-151\PG147 EX12\bin\Debug\netcoreapp2.1\PG147 EX12.pdb
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p147,150-151\PG147 EX12\obj\Debug\netcoreapp2.1\PG147 EX12.csprojAssemblyReference.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p147,150-151\PG147 EX12\obj\Debug\netcoreapp2.1\PG147 EX12.csproj.CoreCompileInputs.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p147,150-151\PG147 EX12\obj\Debug\netcoreapp2.1\PG147 EX12.AssemblyInfoInputs.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p147,150-151\PG147 EX12\obj\Debug\netcoreapp2.1\PG147 EX12.AssemblyInfo.cs
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p147,150-151\PG147 EX12\obj\Debug\netcoreapp2.1\PG147 EX12.dll
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\p147,150-151\PG147 EX12\obj\Debug\netcoreapp2.1\PG147 EX12.pdb

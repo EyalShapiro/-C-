@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "למבחן מ'ב/1.0.0": {
+        "runtime": {
+          "למבחן מ'ב.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "למבחן מ'ב/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

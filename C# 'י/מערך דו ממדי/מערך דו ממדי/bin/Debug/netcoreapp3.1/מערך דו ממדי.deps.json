@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "מערך דו ממדי/1.0.0": {
+        "runtime": {
+          "מערך דו ממדי.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "מערך דו ממדי/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

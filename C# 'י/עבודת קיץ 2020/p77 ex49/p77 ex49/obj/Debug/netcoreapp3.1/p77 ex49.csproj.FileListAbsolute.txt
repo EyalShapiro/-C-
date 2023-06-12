@@ -1,0 +1,13 @@
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p77 ex49\p77 ex49\obj\Debug\netcoreapp3.1\p77 ex49.csprojAssemblyReference.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p77 ex49\p77 ex49\obj\Debug\netcoreapp3.1\p77 ex49.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p77 ex49\p77 ex49\obj\Debug\netcoreapp3.1\p77 ex49.AssemblyInfoInputs.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p77 ex49\p77 ex49\obj\Debug\netcoreapp3.1\p77 ex49.AssemblyInfo.cs
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p77 ex49\p77 ex49\bin\Debug\netcoreapp3.1\p77 ex49.exe
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p77 ex49\p77 ex49\bin\Debug\netcoreapp3.1\p77 ex49.deps.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p77 ex49\p77 ex49\bin\Debug\netcoreapp3.1\p77 ex49.runtimeconfig.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p77 ex49\p77 ex49\bin\Debug\netcoreapp3.1\p77 ex49.runtimeconfig.dev.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p77 ex49\p77 ex49\bin\Debug\netcoreapp3.1\p77 ex49.dll
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p77 ex49\p77 ex49\bin\Debug\netcoreapp3.1\p77 ex49.pdb
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p77 ex49\p77 ex49\obj\Debug\netcoreapp3.1\p77 ex49.dll
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p77 ex49\p77 ex49\obj\Debug\netcoreapp3.1\p77 ex49.pdb
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p77 ex49\p77 ex49\obj\Debug\netcoreapp3.1\p77 ex49.genruntimeconfig.cache

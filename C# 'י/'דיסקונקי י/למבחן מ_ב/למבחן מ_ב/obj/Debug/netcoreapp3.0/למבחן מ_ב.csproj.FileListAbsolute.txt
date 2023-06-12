@@ -1,0 +1,11 @@
+F:\בבית ספר c#\למבחן מ'ב\למבחן מ'ב\bin\Debug\netcoreapp3.0\למבחן מ'ב.exe
+F:\בבית ספר c#\למבחן מ'ב\למבחן מ'ב\bin\Debug\netcoreapp3.0\למבחן מ'ב.deps.json
+F:\בבית ספר c#\למבחן מ'ב\למבחן מ'ב\bin\Debug\netcoreapp3.0\למבחן מ'ב.runtimeconfig.json
+F:\בבית ספר c#\למבחן מ'ב\למבחן מ'ב\bin\Debug\netcoreapp3.0\למבחן מ'ב.runtimeconfig.dev.json
+F:\בבית ספר c#\למבחן מ'ב\למבחן מ'ב\bin\Debug\netcoreapp3.0\למבחן מ'ב.dll
+F:\בבית ספר c#\למבחן מ'ב\למבחן מ'ב\bin\Debug\netcoreapp3.0\למבחן מ'ב.pdb
+F:\בבית ספר c#\למבחן מ'ב\למבחן מ'ב\obj\Debug\netcoreapp3.0\למבחן מ'ב.csprojAssemblyReference.cache
+F:\בבית ספר c#\למבחן מ'ב\למבחן מ'ב\obj\Debug\netcoreapp3.0\למבחן מ'ב.AssemblyInfoInputs.cache
+F:\בבית ספר c#\למבחן מ'ב\למבחן מ'ב\obj\Debug\netcoreapp3.0\למבחן מ'ב.AssemblyInfo.cs
+F:\בבית ספר c#\למבחן מ'ב\למבחן מ'ב\obj\Debug\netcoreapp3.0\למבחן מ'ב.dll
+F:\בבית ספר c#\למבחן מ'ב\למבחן מ'ב\obj\Debug\netcoreapp3.0\למבחן מ'ב.pdb

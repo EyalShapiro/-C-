@@ -1,0 +1,11 @@
+F:\בבית ספר c#\ריבוע קסם\ריבוע קסם\bin\Debug\netcoreapp2.1\ריבוע קסם.deps.json
+F:\בבית ספר c#\ריבוע קסם\ריבוע קסם\bin\Debug\netcoreapp2.1\ריבוע קסם.runtimeconfig.json
+F:\בבית ספר c#\ריבוע קסם\ריבוע קסם\bin\Debug\netcoreapp2.1\ריבוע קסם.runtimeconfig.dev.json
+F:\בבית ספר c#\ריבוע קסם\ריבוע קסם\bin\Debug\netcoreapp2.1\ריבוע קסם.dll
+F:\בבית ספר c#\ריבוע קסם\ריבוע קסם\bin\Debug\netcoreapp2.1\ריבוע קסם.pdb
+F:\בבית ספר c#\ריבוע קסם\ריבוע קסם\obj\Debug\netcoreapp2.1\ריבוע קסם.csprojAssemblyReference.cache
+F:\בבית ספר c#\ריבוע קסם\ריבוע קסם\obj\Debug\netcoreapp2.1\ריבוע קסם.csproj.CoreCompileInputs.cache
+F:\בבית ספר c#\ריבוע קסם\ריבוע קסם\obj\Debug\netcoreapp2.1\ריבוע קסם.AssemblyInfoInputs.cache
+F:\בבית ספר c#\ריבוע קסם\ריבוע קסם\obj\Debug\netcoreapp2.1\ריבוע קסם.AssemblyInfo.cs
+F:\בבית ספר c#\ריבוע קסם\ריבוע קסם\obj\Debug\netcoreapp2.1\ריבוע קסם.dll
+F:\בבית ספר c#\ריבוע קסם\ריבוע קסם\obj\Debug\netcoreapp2.1\ריבוע קסם.pdb

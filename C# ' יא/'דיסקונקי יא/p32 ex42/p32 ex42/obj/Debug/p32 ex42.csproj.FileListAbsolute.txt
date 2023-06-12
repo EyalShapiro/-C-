@@ -1,0 +1,7 @@
+I:\(יא)בבית ספר c#\p32 ex42\p32 ex42\bin\Debug\p32 ex42.exe.config
+I:\(יא)בבית ספר c#\p32 ex42\p32 ex42\bin\Debug\p32 ex42.exe
+I:\(יא)בבית ספר c#\p32 ex42\p32 ex42\bin\Debug\p32 ex42.pdb
+I:\(יא)בבית ספר c#\p32 ex42\p32 ex42\obj\Debug\p32 ex42.csprojAssemblyReference.cache
+I:\(יא)בבית ספר c#\p32 ex42\p32 ex42\obj\Debug\p32 ex42.csproj.CoreCompileInputs.cache
+I:\(יא)בבית ספר c#\p32 ex42\p32 ex42\obj\Debug\p32 ex42.exe
+I:\(יא)בבית ספר c#\p32 ex42\p32 ex42\obj\Debug\p32 ex42.pdb

@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\Downloads\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\User\Downloads\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\Downloads\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\User\Downloads\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\User\Downloads\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\(יא)בבית ספר c#\p93_ex15\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\(יא)בבית ספר c#\p93_ex15\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\(יא)בבית ספר c#\p93_ex15\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\(יא)בבית ספר c#\p93_ex15\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\(יא)בבית ספר c#\p93_ex15\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\(יא)בבית ספר c#\p93_ex15\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\(יא)בבית ספר c#\p93_ex15\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\(יא)בבית ספר c#\p93_ex15\ConsoleApp1\bin\Debug\DryIoc.dll
+D:\(יא)בבית ספר c#\p93_ex15\ConsoleApp1\bin\Debug\DryIoc.xml
+D:\(יא)בבית ספר c#\p93_ex15\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete

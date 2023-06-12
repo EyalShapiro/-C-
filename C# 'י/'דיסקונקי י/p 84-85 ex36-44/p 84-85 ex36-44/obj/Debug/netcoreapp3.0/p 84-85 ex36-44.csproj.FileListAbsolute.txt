@@ -1,0 +1,11 @@
+F:\p 84-85 ex36-44\p 84-85 ex36-44\bin\Debug\netcoreapp3.0\p 84-85 ex36-44.exe
+F:\p 84-85 ex36-44\p 84-85 ex36-44\bin\Debug\netcoreapp3.0\p 84-85 ex36-44.deps.json
+F:\p 84-85 ex36-44\p 84-85 ex36-44\bin\Debug\netcoreapp3.0\p 84-85 ex36-44.runtimeconfig.json
+F:\p 84-85 ex36-44\p 84-85 ex36-44\bin\Debug\netcoreapp3.0\p 84-85 ex36-44.runtimeconfig.dev.json
+F:\p 84-85 ex36-44\p 84-85 ex36-44\bin\Debug\netcoreapp3.0\p 84-85 ex36-44.dll
+F:\p 84-85 ex36-44\p 84-85 ex36-44\bin\Debug\netcoreapp3.0\p 84-85 ex36-44.pdb
+F:\p 84-85 ex36-44\p 84-85 ex36-44\obj\Debug\netcoreapp3.0\p 84-85 ex36-44.csprojAssemblyReference.cache
+F:\p 84-85 ex36-44\p 84-85 ex36-44\obj\Debug\netcoreapp3.0\p 84-85 ex36-44.AssemblyInfoInputs.cache
+F:\p 84-85 ex36-44\p 84-85 ex36-44\obj\Debug\netcoreapp3.0\p 84-85 ex36-44.AssemblyInfo.cs
+F:\p 84-85 ex36-44\p 84-85 ex36-44\obj\Debug\netcoreapp3.0\p 84-85 ex36-44.dll
+F:\p 84-85 ex36-44\p 84-85 ex36-44\obj\Debug\netcoreapp3.0\p 84-85 ex36-44.pdb

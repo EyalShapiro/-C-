@@ -1,0 +1,14 @@
+F:\(יא)בבית ספר c#\תור\תור\bin\Debug\תור.exe.config
+F:\(יא)בבית ספר c#\תור\תור\bin\Debug\תור.exe
+F:\(יא)בבית ספר c#\תור\תור\bin\Debug\תור.pdb
+F:\(יא)בבית ספר c#\תור\תור\obj\Debug\תור.csprojAssemblyReference.cache
+F:\(יא)בבית ספר c#\תור\תור\obj\Debug\תור.csproj.CoreCompileInputs.cache
+F:\(יא)בבית ספר c#\תור\תור\obj\Debug\תור.exe
+F:\(יא)בבית ספר c#\תור\תור\obj\Debug\תור.pdb
+E:\(יא)בבית ספר c#\תור\תור\obj\Debug\תור.csprojAssemblyReference.cache
+E:\(יא)בבית ספר c#\תור\תור\obj\Debug\תור.csproj.CoreCompileInputs.cache
+E:\(יא)בבית ספר c#\תור\תור\obj\Debug\תור.exe
+E:\(יא)בבית ספר c#\תור\תור\obj\Debug\תור.pdb
+E:\(יא)בבית ספר c#\תור\תור\bin\Debug\תור.exe.config
+E:\(יא)בבית ספר c#\תור\תור\bin\Debug\תור.exe
+E:\(יא)בבית ספר c#\תור\תור\bin\Debug\תור.pdb

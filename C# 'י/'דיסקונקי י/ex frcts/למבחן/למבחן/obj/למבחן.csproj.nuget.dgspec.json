@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\בבית ספר c#\\ex frcts\\למבחן\\למבחן\\למבחן.csproj": {}
+  },
+  "projects": {
+    "E:\\בבית ספר c#\\ex frcts\\למבחן\\למבחן\\למבחן.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\בבית ספר c#\\ex frcts\\למבחן\\למבחן\\למבחן.csproj",
+        "projectName": "למבחן",
+        "projectPath": "E:\\בבית ספר c#\\ex frcts\\למבחן\\למבחן\\למבחן.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "E:\\בבית ספר c#\\ex frcts\\למבחן\\למבחן\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

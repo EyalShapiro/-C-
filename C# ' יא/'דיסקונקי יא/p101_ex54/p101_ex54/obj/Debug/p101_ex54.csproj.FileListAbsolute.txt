@@ -1,0 +1,7 @@
+I:\(יא)בבית ספר c#\p101_ex54\p101_ex54\bin\Debug\p101_ex54.exe.config
+I:\(יא)בבית ספר c#\p101_ex54\p101_ex54\bin\Debug\p101_ex54.exe
+I:\(יא)בבית ספר c#\p101_ex54\p101_ex54\bin\Debug\p101_ex54.pdb
+I:\(יא)בבית ספר c#\p101_ex54\p101_ex54\obj\Debug\p101_ex54.csprojAssemblyReference.cache
+I:\(יא)בבית ספר c#\p101_ex54\p101_ex54\obj\Debug\p101_ex54.csproj.CoreCompileInputs.cache
+I:\(יא)בבית ספר c#\p101_ex54\p101_ex54\obj\Debug\p101_ex54.exe
+I:\(יא)בבית ספר c#\p101_ex54\p101_ex54\obj\Debug\p101_ex54.pdb

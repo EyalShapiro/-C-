@@ -1,0 +1,13 @@
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\למידה בקיץ 2020\שאלה מהבגרות\שאלה מהבגרות\obj\Debug\netcoreapp3.1\שאלה מהבגרות.csprojAssemblyReference.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\למידה בקיץ 2020\שאלה מהבגרות\שאלה מהבגרות\obj\Debug\netcoreapp3.1\שאלה מהבגרות.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\למידה בקיץ 2020\שאלה מהבגרות\שאלה מהבגרות\obj\Debug\netcoreapp3.1\שאלה מהבגרות.AssemblyInfoInputs.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\למידה בקיץ 2020\שאלה מהבגרות\שאלה מהבגרות\obj\Debug\netcoreapp3.1\שאלה מהבגרות.AssemblyInfo.cs
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\למידה בקיץ 2020\שאלה מהבגרות\שאלה מהבגרות\bin\Debug\netcoreapp3.1\שאלה מהבגרות.exe
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\למידה בקיץ 2020\שאלה מהבגרות\שאלה מהבגרות\bin\Debug\netcoreapp3.1\שאלה מהבגרות.deps.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\למידה בקיץ 2020\שאלה מהבגרות\שאלה מהבגרות\bin\Debug\netcoreapp3.1\שאלה מהבגרות.runtimeconfig.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\למידה בקיץ 2020\שאלה מהבגרות\שאלה מהבגרות\bin\Debug\netcoreapp3.1\שאלה מהבגרות.runtimeconfig.dev.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\למידה בקיץ 2020\שאלה מהבגרות\שאלה מהבגרות\bin\Debug\netcoreapp3.1\שאלה מהבגרות.dll
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\למידה בקיץ 2020\שאלה מהבגרות\שאלה מהבגרות\bin\Debug\netcoreapp3.1\שאלה מהבגרות.pdb
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\למידה בקיץ 2020\שאלה מהבגרות\שאלה מהבגרות\obj\Debug\netcoreapp3.1\שאלה מהבגרות.dll
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\למידה בקיץ 2020\שאלה מהבגרות\שאלה מהבגרות\obj\Debug\netcoreapp3.1\שאלה מהבגרות.pdb
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\למידה בקיץ 2020\שאלה מהבגרות\שאלה מהבגרות\obj\Debug\netcoreapp3.1\שאלה מהבגרות.genruntimeconfig.cache

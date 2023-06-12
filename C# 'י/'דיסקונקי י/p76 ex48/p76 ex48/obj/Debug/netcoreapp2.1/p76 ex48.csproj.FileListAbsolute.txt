@@ -1,0 +1,11 @@
+H:\בבית ספר c#\p76 ex48\p76 ex48\bin\Debug\netcoreapp2.1\p76 ex48.deps.json
+H:\בבית ספר c#\p76 ex48\p76 ex48\bin\Debug\netcoreapp2.1\p76 ex48.runtimeconfig.json
+H:\בבית ספר c#\p76 ex48\p76 ex48\bin\Debug\netcoreapp2.1\p76 ex48.runtimeconfig.dev.json
+H:\בבית ספר c#\p76 ex48\p76 ex48\bin\Debug\netcoreapp2.1\p76 ex48.dll
+H:\בבית ספר c#\p76 ex48\p76 ex48\bin\Debug\netcoreapp2.1\p76 ex48.pdb
+H:\בבית ספר c#\p76 ex48\p76 ex48\obj\Debug\netcoreapp2.1\p76 ex48.csprojAssemblyReference.cache
+H:\בבית ספר c#\p76 ex48\p76 ex48\obj\Debug\netcoreapp2.1\p76 ex48.csproj.CoreCompileInputs.cache
+H:\בבית ספר c#\p76 ex48\p76 ex48\obj\Debug\netcoreapp2.1\p76 ex48.AssemblyInfoInputs.cache
+H:\בבית ספר c#\p76 ex48\p76 ex48\obj\Debug\netcoreapp2.1\p76 ex48.AssemblyInfo.cs
+H:\בבית ספר c#\p76 ex48\p76 ex48\obj\Debug\netcoreapp2.1\p76 ex48.dll
+H:\בבית ספר c#\p76 ex48\p76 ex48\obj\Debug\netcoreapp2.1\p76 ex48.pdb

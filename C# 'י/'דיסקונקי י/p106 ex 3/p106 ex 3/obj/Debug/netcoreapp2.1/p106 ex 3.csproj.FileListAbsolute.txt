@@ -1,0 +1,11 @@
+F:\בבית ספר c#\p106 ex 3\p106 ex 3\bin\Debug\netcoreapp2.1\p106 ex 3.deps.json
+F:\בבית ספר c#\p106 ex 3\p106 ex 3\bin\Debug\netcoreapp2.1\p106 ex 3.runtimeconfig.json
+F:\בבית ספר c#\p106 ex 3\p106 ex 3\bin\Debug\netcoreapp2.1\p106 ex 3.runtimeconfig.dev.json
+F:\בבית ספר c#\p106 ex 3\p106 ex 3\bin\Debug\netcoreapp2.1\p106 ex 3.dll
+F:\בבית ספר c#\p106 ex 3\p106 ex 3\bin\Debug\netcoreapp2.1\p106 ex 3.pdb
+F:\בבית ספר c#\p106 ex 3\p106 ex 3\obj\Debug\netcoreapp2.1\p106 ex 3.csprojAssemblyReference.cache
+F:\בבית ספר c#\p106 ex 3\p106 ex 3\obj\Debug\netcoreapp2.1\p106 ex 3.csproj.CoreCompileInputs.cache
+F:\בבית ספר c#\p106 ex 3\p106 ex 3\obj\Debug\netcoreapp2.1\p106 ex 3.AssemblyInfoInputs.cache
+F:\בבית ספר c#\p106 ex 3\p106 ex 3\obj\Debug\netcoreapp2.1\p106 ex 3.AssemblyInfo.cs
+F:\בבית ספר c#\p106 ex 3\p106 ex 3\obj\Debug\netcoreapp2.1\p106 ex 3.dll
+F:\בבית ספר c#\p106 ex 3\p106 ex 3\obj\Debug\netcoreapp2.1\p106 ex 3.pdb

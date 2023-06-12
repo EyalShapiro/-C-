@@ -1,0 +1,14 @@
+F:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\bin\Debug\p26 ex3-13.exe.config
+F:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\bin\Debug\p26 ex3-13.exe
+F:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\bin\Debug\p26 ex3-13.pdb
+F:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\obj\Debug\p26 ex3-13.csprojAssemblyReference.cache
+F:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\obj\Debug\p26 ex3-13.csproj.CoreCompileInputs.cache
+F:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\obj\Debug\p26 ex3-13.exe
+F:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\obj\Debug\p26 ex3-13.pdb
+D:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\bin\Debug\p26 ex3-13.exe.config
+D:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\bin\Debug\p26 ex3-13.exe
+D:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\bin\Debug\p26 ex3-13.pdb
+D:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\obj\Debug\p26 ex3-13.csprojAssemblyReference.cache
+D:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\obj\Debug\p26 ex3-13.csproj.CoreCompileInputs.cache
+D:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\obj\Debug\p26 ex3-13.exe
+D:\(יא)בבית ספר c#\p26 ex3-13\p26 ex3-13\obj\Debug\p26 ex3-13.pdb

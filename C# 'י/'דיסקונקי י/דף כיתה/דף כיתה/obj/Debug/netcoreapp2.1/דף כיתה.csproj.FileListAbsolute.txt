@@ -1,0 +1,11 @@
+F:\בבית ספר c#\דף כיתה\דף כיתה\bin\Debug\netcoreapp2.1\דף כיתה.deps.json
+F:\בבית ספר c#\דף כיתה\דף כיתה\bin\Debug\netcoreapp2.1\דף כיתה.runtimeconfig.json
+F:\בבית ספר c#\דף כיתה\דף כיתה\bin\Debug\netcoreapp2.1\דף כיתה.runtimeconfig.dev.json
+F:\בבית ספר c#\דף כיתה\דף כיתה\bin\Debug\netcoreapp2.1\דף כיתה.dll
+F:\בבית ספר c#\דף כיתה\דף כיתה\bin\Debug\netcoreapp2.1\דף כיתה.pdb
+F:\בבית ספר c#\דף כיתה\דף כיתה\obj\Debug\netcoreapp2.1\דף כיתה.csprojAssemblyReference.cache
+F:\בבית ספר c#\דף כיתה\דף כיתה\obj\Debug\netcoreapp2.1\דף כיתה.csproj.CoreCompileInputs.cache
+F:\בבית ספר c#\דף כיתה\דף כיתה\obj\Debug\netcoreapp2.1\דף כיתה.AssemblyInfoInputs.cache
+F:\בבית ספר c#\דף כיתה\דף כיתה\obj\Debug\netcoreapp2.1\דף כיתה.AssemblyInfo.cs
+F:\בבית ספר c#\דף כיתה\דף כיתה\obj\Debug\netcoreapp2.1\דף כיתה.dll
+F:\בבית ספר c#\דף כיתה\דף כיתה\obj\Debug\netcoreapp2.1\דף כיתה.pdb

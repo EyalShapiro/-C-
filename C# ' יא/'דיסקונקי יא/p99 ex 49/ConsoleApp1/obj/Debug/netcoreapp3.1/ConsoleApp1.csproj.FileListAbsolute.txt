@@ -1,0 +1,13 @@
+Z:\Eyal madrid hamelech 123\ציונה תגר\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+Z:\Eyal madrid hamelech 123\ציונה תגר\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+Z:\Eyal madrid hamelech 123\ציונה תגר\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+Z:\Eyal madrid hamelech 123\ציונה תגר\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+Z:\Eyal madrid hamelech 123\ציונה תגר\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+Z:\Eyal madrid hamelech 123\ציונה תגר\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+Z:\Eyal madrid hamelech 123\ציונה תגר\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+Z:\Eyal madrid hamelech 123\ציונה תגר\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+Z:\Eyal madrid hamelech 123\ציונה תגר\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+Z:\Eyal madrid hamelech 123\ציונה תגר\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+Z:\Eyal madrid hamelech 123\ציונה תגר\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+Z:\Eyal madrid hamelech 123\ציונה תגר\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+Z:\Eyal madrid hamelech 123\ציונה תגר\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

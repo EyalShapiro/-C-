@@ -1,0 +1,39 @@
+F:\בבית ספר c#\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.csprojAssemblyReference.cache
+F:\בבית ספר c#\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.csproj.CoreCompileInputs.cache
+F:\בבית ספר c#\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.AssemblyInfoInputs.cache
+F:\בבית ספר c#\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.AssemblyInfo.cs
+F:\בבית ספר c#\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.exe
+F:\בבית ספר c#\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.deps.json
+F:\בבית ספר c#\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.runtimeconfig.json
+F:\בבית ספר c#\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.runtimeconfig.dev.json
+F:\בבית ספר c#\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.dll
+F:\בבית ספר c#\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.pdb
+F:\בבית ספר c#\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.dll
+F:\בבית ספר c#\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.pdb
+F:\בבית ספר c#\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.genruntimeconfig.cache
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.exe
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.deps.json
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.runtimeconfig.json
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.runtimeconfig.dev.json
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.dll
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.pdb
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.csprojAssemblyReference.cache
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.AssemblyInfoInputs.cache
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.AssemblyInfo.cs
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.dll
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.pdb
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.genruntimeconfig.cache
+C:\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.exe
+C:\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.deps.json
+C:\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.runtimeconfig.json
+C:\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.runtimeconfig.dev.json
+C:\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.dll
+C:\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\bin\Debug\netcoreapp3.1\מערך.pdb
+C:\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.csprojAssemblyReference.cache
+C:\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.AssemblyInfoInputs.cache
+C:\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.AssemblyInfo.cs
+C:\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.csproj.CoreCompileInputs.cache
+C:\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.dll
+C:\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.pdb
+C:\אייל לימודים\'י\אייל  C#\בבית ספר (י) c#(דיסקונקי)\מערך\מערך\obj\Debug\netcoreapp3.1\מערך.genruntimeconfig.cache

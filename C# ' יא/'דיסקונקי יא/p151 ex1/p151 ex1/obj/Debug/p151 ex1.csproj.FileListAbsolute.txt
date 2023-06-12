@@ -1,0 +1,7 @@
+E:\(יא)בבית ספר c#\p151 ex1\p151 ex1\bin\Debug\p151 ex1.exe.config
+E:\(יא)בבית ספר c#\p151 ex1\p151 ex1\bin\Debug\p151 ex1.exe
+E:\(יא)בבית ספר c#\p151 ex1\p151 ex1\bin\Debug\p151 ex1.pdb
+E:\(יא)בבית ספר c#\p151 ex1\p151 ex1\obj\Debug\p151 ex1.csprojAssemblyReference.cache
+E:\(יא)בבית ספר c#\p151 ex1\p151 ex1\obj\Debug\p151 ex1.csproj.CoreCompileInputs.cache
+E:\(יא)בבית ספר c#\p151 ex1\p151 ex1\obj\Debug\p151 ex1.exe
+E:\(יא)בבית ספר c#\p151 ex1\p151 ex1\obj\Debug\p151 ex1.pdb

@@ -1,0 +1,27 @@
+C:\אייל לימודים\'יא\אייל  C#\רקורסיה\רקורסיה\bin\Debug\netcoreapp3.1\רקורסיה.exe
+C:\אייל לימודים\'יא\אייל  C#\רקורסיה\רקורסיה\bin\Debug\netcoreapp3.1\רקורסיה.deps.json
+C:\אייל לימודים\'יא\אייל  C#\רקורסיה\רקורסיה\bin\Debug\netcoreapp3.1\רקורסיה.runtimeconfig.json
+C:\אייל לימודים\'יא\אייל  C#\רקורסיה\רקורסיה\bin\Debug\netcoreapp3.1\רקורסיה.runtimeconfig.dev.json
+C:\אייל לימודים\'יא\אייל  C#\רקורסיה\רקורסיה\bin\Debug\netcoreapp3.1\רקורסיה.dll
+C:\אייל לימודים\'יא\אייל  C#\רקורסיה\רקורסיה\bin\Debug\netcoreapp3.1\רקורסיה.pdb
+C:\אייל לימודים\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.csprojAssemblyReference.cache
+C:\אייל לימודים\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.AssemblyInfoInputs.cache
+C:\אייל לימודים\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.AssemblyInfo.cs
+C:\אייל לימודים\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.csproj.CoreCompileInputs.cache
+C:\אייל לימודים\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.dll
+C:\אייל לימודים\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.pdb
+C:\אייל לימודים\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.genruntimeconfig.cache
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\bin\Debug\netcoreapp3.1\רקורסיה.exe
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\bin\Debug\netcoreapp3.1\רקורסיה.deps.json
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\bin\Debug\netcoreapp3.1\רקורסיה.runtimeconfig.json
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\bin\Debug\netcoreapp3.1\רקורסיה.runtimeconfig.dev.json
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\bin\Debug\netcoreapp3.1\רקורסיה.dll
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\bin\Debug\netcoreapp3.1\רקורסיה.pdb
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.csproj.AssemblyReference.cache
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.GeneratedMSBuildEditorConfig.editorconfig
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.AssemblyInfoInputs.cache
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.AssemblyInfo.cs
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.csproj.CoreCompileInputs.cache
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.dll
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.pdb
+C:\אייל\'יא\אייל  C#\רקורסיה\רקורסיה\obj\Debug\netcoreapp3.1\רקורסיה.genruntimeconfig.cache

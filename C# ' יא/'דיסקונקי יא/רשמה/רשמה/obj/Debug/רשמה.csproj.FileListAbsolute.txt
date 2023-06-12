@@ -1,0 +1,7 @@
+D:\(יא)בבית ספר c#\רשמה\רשמה\bin\Debug\רשמה.exe.config
+D:\(יא)בבית ספר c#\רשמה\רשמה\bin\Debug\רשמה.exe
+D:\(יא)בבית ספר c#\רשמה\רשמה\bin\Debug\רשמה.pdb
+D:\(יא)בבית ספר c#\רשמה\רשמה\obj\Debug\רשמה.csprojAssemblyReference.cache
+D:\(יא)בבית ספר c#\רשמה\רשמה\obj\Debug\רשמה.csproj.CoreCompileInputs.cache
+D:\(יא)בבית ספר c#\רשמה\רשמה\obj\Debug\רשמה.exe
+D:\(יא)בבית ספר c#\רשמה\רשמה\obj\Debug\רשמה.pdb

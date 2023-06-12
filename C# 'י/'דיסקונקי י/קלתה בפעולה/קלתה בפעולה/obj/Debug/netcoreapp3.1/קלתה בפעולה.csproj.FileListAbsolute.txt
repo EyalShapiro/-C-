@@ -1,0 +1,13 @@
+F:\בבית ספר c#\קלתה בפעולה\קלתה בפעולה\bin\Debug\netcoreapp3.1\קלתה בפעולה.exe
+F:\בבית ספר c#\קלתה בפעולה\קלתה בפעולה\bin\Debug\netcoreapp3.1\קלתה בפעולה.deps.json
+F:\בבית ספר c#\קלתה בפעולה\קלתה בפעולה\bin\Debug\netcoreapp3.1\קלתה בפעולה.runtimeconfig.json
+F:\בבית ספר c#\קלתה בפעולה\קלתה בפעולה\bin\Debug\netcoreapp3.1\קלתה בפעולה.runtimeconfig.dev.json
+F:\בבית ספר c#\קלתה בפעולה\קלתה בפעולה\bin\Debug\netcoreapp3.1\קלתה בפעולה.dll
+F:\בבית ספר c#\קלתה בפעולה\קלתה בפעולה\bin\Debug\netcoreapp3.1\קלתה בפעולה.pdb
+F:\בבית ספר c#\קלתה בפעולה\קלתה בפעולה\obj\Debug\netcoreapp3.1\קלתה בפעולה.csprojAssemblyReference.cache
+F:\בבית ספר c#\קלתה בפעולה\קלתה בפעולה\obj\Debug\netcoreapp3.1\קלתה בפעולה.csproj.CoreCompileInputs.cache
+F:\בבית ספר c#\קלתה בפעולה\קלתה בפעולה\obj\Debug\netcoreapp3.1\קלתה בפעולה.AssemblyInfoInputs.cache
+F:\בבית ספר c#\קלתה בפעולה\קלתה בפעולה\obj\Debug\netcoreapp3.1\קלתה בפעולה.AssemblyInfo.cs
+F:\בבית ספר c#\קלתה בפעולה\קלתה בפעולה\obj\Debug\netcoreapp3.1\קלתה בפעולה.dll
+F:\בבית ספר c#\קלתה בפעולה\קלתה בפעולה\obj\Debug\netcoreapp3.1\קלתה בפעולה.pdb
+F:\בבית ספר c#\קלתה בפעולה\קלתה בפעולה\obj\Debug\netcoreapp3.1\קלתה בפעולה.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p173 ex5\p173 ex5\bin\Debug\netcoreapp3.1\p173 ex5.exe
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p173 ex5\p173 ex5\bin\Debug\netcoreapp3.1\p173 ex5.deps.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p173 ex5\p173 ex5\bin\Debug\netcoreapp3.1\p173 ex5.runtimeconfig.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p173 ex5\p173 ex5\bin\Debug\netcoreapp3.1\p173 ex5.runtimeconfig.dev.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p173 ex5\p173 ex5\bin\Debug\netcoreapp3.1\p173 ex5.dll
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p173 ex5\p173 ex5\bin\Debug\netcoreapp3.1\p173 ex5.pdb
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p173 ex5\p173 ex5\obj\Debug\netcoreapp3.1\p173 ex5.csprojAssemblyReference.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p173 ex5\p173 ex5\obj\Debug\netcoreapp3.1\p173 ex5.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p173 ex5\p173 ex5\obj\Debug\netcoreapp3.1\p173 ex5.AssemblyInfoInputs.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p173 ex5\p173 ex5\obj\Debug\netcoreapp3.1\p173 ex5.AssemblyInfo.cs
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p173 ex5\p173 ex5\obj\Debug\netcoreapp3.1\p173 ex5.dll
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p173 ex5\p173 ex5\obj\Debug\netcoreapp3.1\p173 ex5.pdb
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p173 ex5\p173 ex5\obj\Debug\netcoreapp3.1\p173 ex5.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+D:\(יא)בבית ספר c#\p96_ex27\p96_ex27\bin\Debug\p96_ex27.exe.config
+D:\(יא)בבית ספר c#\p96_ex27\p96_ex27\bin\Debug\p96_ex27.exe
+D:\(יא)בבית ספר c#\p96_ex27\p96_ex27\bin\Debug\p96_ex27.pdb
+D:\(יא)בבית ספר c#\p96_ex27\p96_ex27\obj\Debug\p96_ex27.csprojAssemblyReference.cache
+D:\(יא)בבית ספר c#\p96_ex27\p96_ex27\obj\Debug\p96_ex27.csproj.CoreCompileInputs.cache
+D:\(יא)בבית ספר c#\p96_ex27\p96_ex27\obj\Debug\p96_ex27.exe
+D:\(יא)בבית ספר c#\p96_ex27\p96_ex27\obj\Debug\p96_ex27.pdb

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\רונה תש''פ\\יסודות סייבר ר''ת\\אייל שפירא\\p146-147\\p146-147\\p146-147.csproj": {}
+  },
+  "projects": {
+    "Z:\\רונה תש''פ\\יסודות סייבר ר''ת\\אייל שפירא\\p146-147\\p146-147\\p146-147.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\רונה תש''פ\\יסודות סייבר ר''ת\\אייל שפירא\\p146-147\\p146-147\\p146-147.csproj",
+        "projectName": "p146-147",
+        "projectPath": "Z:\\רונה תש''פ\\יסודות סייבר ר''ת\\אייל שפירא\\p146-147\\p146-147\\p146-147.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "Z:\\רונה תש''פ\\יסודות סייבר ר''ת\\אייל שפירא\\p146-147\\p146-147\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

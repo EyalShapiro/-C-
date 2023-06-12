@@ -1,0 +1,13 @@
+F:\בבית ספר c#\תרגילים לשיפור ציון\תרגילים לשיפור ציון\bin\Debug\netcoreapp3.1\תרגילים לשיפור ציון.exe
+F:\בבית ספר c#\תרגילים לשיפור ציון\תרגילים לשיפור ציון\bin\Debug\netcoreapp3.1\תרגילים לשיפור ציון.deps.json
+F:\בבית ספר c#\תרגילים לשיפור ציון\תרגילים לשיפור ציון\bin\Debug\netcoreapp3.1\תרגילים לשיפור ציון.runtimeconfig.json
+F:\בבית ספר c#\תרגילים לשיפור ציון\תרגילים לשיפור ציון\bin\Debug\netcoreapp3.1\תרגילים לשיפור ציון.runtimeconfig.dev.json
+F:\בבית ספר c#\תרגילים לשיפור ציון\תרגילים לשיפור ציון\bin\Debug\netcoreapp3.1\תרגילים לשיפור ציון.dll
+F:\בבית ספר c#\תרגילים לשיפור ציון\תרגילים לשיפור ציון\bin\Debug\netcoreapp3.1\תרגילים לשיפור ציון.pdb
+F:\בבית ספר c#\תרגילים לשיפור ציון\תרגילים לשיפור ציון\obj\Debug\netcoreapp3.1\תרגילים לשיפור ציון.csprojAssemblyReference.cache
+F:\בבית ספר c#\תרגילים לשיפור ציון\תרגילים לשיפור ציון\obj\Debug\netcoreapp3.1\תרגילים לשיפור ציון.csproj.CoreCompileInputs.cache
+F:\בבית ספר c#\תרגילים לשיפור ציון\תרגילים לשיפור ציון\obj\Debug\netcoreapp3.1\תרגילים לשיפור ציון.AssemblyInfoInputs.cache
+F:\בבית ספר c#\תרגילים לשיפור ציון\תרגילים לשיפור ציון\obj\Debug\netcoreapp3.1\תרגילים לשיפור ציון.AssemblyInfo.cs
+F:\בבית ספר c#\תרגילים לשיפור ציון\תרגילים לשיפור ציון\obj\Debug\netcoreapp3.1\תרגילים לשיפור ציון.dll
+F:\בבית ספר c#\תרגילים לשיפור ציון\תרגילים לשיפור ציון\obj\Debug\netcoreapp3.1\תרגילים לשיפור ציון.pdb
+F:\בבית ספר c#\תרגילים לשיפור ציון\תרגילים לשיפור ציון\obj\Debug\netcoreapp3.1\תרגילים לשיפור ציון.genruntimeconfig.cache

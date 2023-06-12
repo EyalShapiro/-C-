@@ -1,0 +1,13 @@
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\מערך דו ממדי\מערך דו ממדי\bin\Debug\netcoreapp3.1\מערך דו ממדי.exe
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\מערך דו ממדי\מערך דו ממדי\bin\Debug\netcoreapp3.1\מערך דו ממדי.deps.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\מערך דו ממדי\מערך דו ממדי\bin\Debug\netcoreapp3.1\מערך דו ממדי.runtimeconfig.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\מערך דו ממדי\מערך דו ממדי\bin\Debug\netcoreapp3.1\מערך דו ממדי.runtimeconfig.dev.json
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\מערך דו ממדי\מערך דו ממדי\bin\Debug\netcoreapp3.1\מערך דו ממדי.dll
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\מערך דו ממדי\מערך דו ממדי\bin\Debug\netcoreapp3.1\מערך דו ממדי.pdb
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\מערך דו ממדי\מערך דו ממדי\obj\Debug\netcoreapp3.1\מערך דו ממדי.csprojAssemblyReference.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\מערך דו ממדי\מערך דו ממדי\obj\Debug\netcoreapp3.1\מערך דו ממדי.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\מערך דו ממדי\מערך דו ממדי\obj\Debug\netcoreapp3.1\מערך דו ממדי.AssemblyInfoInputs.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\מערך דו ממדי\מערך דו ממדי\obj\Debug\netcoreapp3.1\מערך דו ממדי.AssemblyInfo.cs
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\מערך דו ממדי\מערך דו ממדי\obj\Debug\netcoreapp3.1\מערך דו ממדי.dll
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\מערך דו ממדי\מערך דו ממדי\obj\Debug\netcoreapp3.1\מערך דו ממדי.pdb
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\מערך דו ממדי\מערך דו ממדי\obj\Debug\netcoreapp3.1\מערך דו ממדי.genruntimeconfig.cache

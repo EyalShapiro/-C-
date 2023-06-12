@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "דף שאלות", "דף שאלות\דף שאלות.csproj", "{118515ED-36F0-4DE8-8DFA-533309C6687B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{118515ED-36F0-4DE8-8DFA-533309C6687B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118515ED-36F0-4DE8-8DFA-533309C6687B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118515ED-36F0-4DE8-8DFA-533309C6687B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118515ED-36F0-4DE8-8DFA-533309C6687B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96D2114D-2DEF-4CCA-8205-2575B5F92963}
+	EndGlobalSection
+EndGlobal

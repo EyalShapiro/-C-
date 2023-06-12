@@ -1,0 +1,22 @@
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\ex6\bin\Debug\netcoreapp2.1\ex6.deps.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\ex6\bin\Debug\netcoreapp2.1\ex6.runtimeconfig.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\ex6\bin\Debug\netcoreapp2.1\ex6.runtimeconfig.dev.json
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\ex6\bin\Debug\netcoreapp2.1\ex6.dll
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\ex6\bin\Debug\netcoreapp2.1\ex6.pdb
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\ex6\obj\Debug\netcoreapp2.1\ex6.csprojAssemblyReference.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\ex6\obj\Debug\netcoreapp2.1\ex6.csproj.CoreCompileInputs.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\ex6\obj\Debug\netcoreapp2.1\ex6.AssemblyInfoInputs.cache
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\ex6\obj\Debug\netcoreapp2.1\ex6.AssemblyInfo.cs
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\ex6\obj\Debug\netcoreapp2.1\ex6.dll
+Z:\רונה תש''פ\יסודות סייבר ר''ת\אייל שפירא\ex6\obj\Debug\netcoreapp2.1\ex6.pdb
+F:\ex6\bin\Debug\netcoreapp2.1\ex6.deps.json
+F:\ex6\bin\Debug\netcoreapp2.1\ex6.runtimeconfig.json
+F:\ex6\bin\Debug\netcoreapp2.1\ex6.runtimeconfig.dev.json
+F:\ex6\bin\Debug\netcoreapp2.1\ex6.dll
+F:\ex6\bin\Debug\netcoreapp2.1\ex6.pdb
+F:\ex6\obj\Debug\netcoreapp2.1\ex6.csprojAssemblyReference.cache
+F:\ex6\obj\Debug\netcoreapp2.1\ex6.csproj.CoreCompileInputs.cache
+F:\ex6\obj\Debug\netcoreapp2.1\ex6.AssemblyInfoInputs.cache
+F:\ex6\obj\Debug\netcoreapp2.1\ex6.AssemblyInfo.cs
+F:\ex6\obj\Debug\netcoreapp2.1\ex6.dll
+F:\ex6\obj\Debug\netcoreapp2.1\ex6.pdb

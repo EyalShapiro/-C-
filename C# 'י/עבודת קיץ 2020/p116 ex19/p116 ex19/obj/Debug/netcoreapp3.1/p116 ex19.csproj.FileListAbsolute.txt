@@ -1,0 +1,4 @@
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p116 ex19\p116 ex19\obj\Debug\netcoreapp3.1\p116 ex19.csprojAssemblyReference.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p116 ex19\p116 ex19\obj\Debug\netcoreapp3.1\p116 ex19.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p116 ex19\p116 ex19\obj\Debug\netcoreapp3.1\p116 ex19.AssemblyInfoInputs.cache
+C:\Users\Alon\Documents\Eyal -אייל\אייל  C#\עבודת קיץ 2020\p116 ex19\p116 ex19\obj\Debug\netcoreapp3.1\p116 ex19.AssemblyInfo.cs

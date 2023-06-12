@@ -1,0 +1,35 @@
+C:\Users\Alon\source\repos\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.exe
+C:\Users\Alon\source\repos\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.deps.json
+C:\Users\Alon\source\repos\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.runtimeconfig.json
+C:\Users\Alon\source\repos\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.runtimeconfig.dev.json
+C:\Users\Alon\source\repos\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.dll
+C:\Users\Alon\source\repos\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.pdb
+C:\Users\Alon\source\repos\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.csprojAssemblyReference.cache
+C:\Users\Alon\source\repos\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.AssemblyInfoInputs.cache
+C:\Users\Alon\source\repos\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.AssemblyInfo.cs
+C:\Users\Alon\source\repos\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.dll
+C:\Users\Alon\source\repos\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.pdb
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.exe
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.deps.json
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.runtimeconfig.json
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.runtimeconfig.dev.json
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.dll
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.pdb
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.csprojAssemblyReference.cache
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.AssemblyInfoInputs.cache
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.AssemblyInfo.cs
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.dll
+C:\Users\Alon\Desktop\Eyal\אייל מחשבים C#\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.pdb
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.exe
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.deps.json
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.runtimeconfig.json
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.runtimeconfig.dev.json
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.dll
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\ex pardn\ex pardn\bin\Debug\netcoreapp3.0\ex pardn.pdb
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.csprojAssemblyReference.cache
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.AssemblyInfoInputs.cache
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.AssemblyInfo.cs
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.dll
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.pdb
+C:\Users\User\Documents\אייל לימודים\'י\אייל  C#\ex pardn\ex pardn\obj\Debug\netcoreapp3.0\ex pardn.genruntimeconfig.cache

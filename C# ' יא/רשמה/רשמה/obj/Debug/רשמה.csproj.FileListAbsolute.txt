@@ -1,0 +1,7 @@
+C:\אייל לימודים\'יא\אייל  C#\רשמה\רשמה\bin\Debug\רשמה.exe.config
+C:\אייל לימודים\'יא\אייל  C#\רשמה\רשמה\bin\Debug\רשמה.exe
+C:\אייל לימודים\'יא\אייל  C#\רשמה\רשמה\bin\Debug\רשמה.pdb
+C:\אייל לימודים\'יא\אייל  C#\רשמה\רשמה\obj\Debug\רשמה.csprojAssemblyReference.cache
+C:\אייל לימודים\'יא\אייל  C#\רשמה\רשמה\obj\Debug\רשמה.csproj.CoreCompileInputs.cache
+C:\אייל לימודים\'יא\אייל  C#\רשמה\רשמה\obj\Debug\רשמה.exe
+C:\אייל לימודים\'יא\אייל  C#\רשמה\רשמה\obj\Debug\רשמה.pdb
