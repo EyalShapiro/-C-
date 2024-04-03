@@ -32,8 +32,8 @@ public class Couple
     }
 
     public override string ToString()
-    {
-        return "num1: " + this.num1 + " num2: " + this.num2;
+    {// Overrides the ToString method and returns a string representation of the object..num2;
+        return "num1: " + this.num1 + " num2: " + this
     }
 
 }
